@@ -3,8 +3,8 @@
 No se olviden de tener Python 3.6+<br>
 #### Instalar:
 ```
-pip install SpeechRecognition<br>
-pip install PyAudio<br>
+pip install SpeechRecognition
+pip install PyAudio
 ```
 Después pueden correr los archivos con CodeRunner
 #### Notas:
