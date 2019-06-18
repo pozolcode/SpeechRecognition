@@ -1,3 +1,5 @@
+# Método para creación de archivos de audio .wav dado el input del micrófono del usuario
+
 import speech_recognition as sr
 
 r = sr.Recognizer()

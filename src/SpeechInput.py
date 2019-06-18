@@ -1,3 +1,5 @@
+# Método básico de reconocimiento de audio
+
 import speech_recognition as sr
 
 r = sr.Recognizer()

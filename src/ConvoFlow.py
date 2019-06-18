@@ -1,3 +1,5 @@
+# Método básico para ver el comportamiento en una mock convo
+
 import speech_recognition as sr
 
 r = sr.Recognizer()
